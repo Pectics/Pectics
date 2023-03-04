@@ -1,4 +1,4 @@
-### Hi there, I'm Pectics！ 👋
+### Hi there, I'm Pectics！👋
 
 ```
 package com.peckot.pectics;
