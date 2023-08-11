@@ -7,8 +7,11 @@ class Pectics {
     List<Language> languages = new ArrayList<>();
     static {
         languages.add(new Language("Java"));
+        languages.add(new Language("TypeScript"));
         languages.add(new Language("JavaScript"));
-        languages.add(new Language("🕊️"));
+        languages.add(new Game("Minecraft"));
+        languages.add(new Game("Counter-Strike Global Offensive"));
+        languages.add(new Personality("🕊️🕊️🕊️🕊️🕊️"));
     }
 }
 ```
