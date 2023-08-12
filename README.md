@@ -4,15 +4,34 @@
 package com.peckot.pectics;
 
 class Pectics {
-    List<Language> languages = new ArrayList<>();
-    static {
-        languages.add(new Language("Java"));
-        languages.add(new Language("TypeScript"));
-        languages.add(new Language("JavaScript"));
-        languages.add(new Game("Minecraft"));
-        languages.add(new Game("Counter-Strike Global Offensive"));
-        languages.add(new Personality("🕊️🕊️🕊️🕊️🕊️"));
+  List<String> personalities = new ArrayList<>();
+  List<Object> interests = new ArrayList<>();
+  static {
+    for (String lang : new String[] {
+      "Chinese",
+      "English",
+      "Java",
+      "JavaScript",
+      "TypeScript",
+      "Vue3",
+      "LLM Prompt"
+    }) {
+      interests.add(new Language(lang));
     }
+    for (String game : new String[] {
+      "Minecraft",
+      "Phigros",
+      "Arcaea",
+      "Cytus II",
+      "Malody",
+      "Rizline",
+      "UNDERTALE",
+      "Counter-Strike Global Offensive"
+    }) {
+      interests.add(new Game(game));
+    }
+    personalities.add("🕊️🕊️🕊️🕊️🕊️");
+  }
 }
 ```
 
