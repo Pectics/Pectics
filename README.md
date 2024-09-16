@@ -27,6 +27,4 @@ class Pectics {
 
 ### 我的 Github 数据
 
-![Pectics' Github Stats](https://github-readme-stats.vercel.app/api?username=Pectics&include_all_commits=true&theme=tokyonight&locale=cn&hide=stars)
-
-
+![Pectics' Github Stats](https://github-readme-stats.vercel.app/api?username=Pectics&include_all_commits=true&locale=cn&hide=stars&theme=tokyonight)
