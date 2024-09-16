@@ -4,10 +4,8 @@
 package com.peckot.pectics;
 
 class Pectics {
-
   List<String> personalities = new ArrayList<>();
   List<Object> interests = new ArrayList<>();
-
   static {
     for (String lang : new String[] {
       "Java",       "JavaScript",
