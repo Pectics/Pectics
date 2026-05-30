@@ -2,7 +2,7 @@
 <p align="center">Software Engineering Student @ HFUT | Quasi-full-stack Developer</p>
 
 <div align="center">
-  <img src="https://pectics-github-stats.vercel.app/api?username=Pectics&show_icons=true&theme=github_dark_dimmed" height="180em" />
+  <img src="https://pectics-github-stats.vercel.app/api?username=Pectics&show=reviews&show_icons=true&theme=github_dark_dimmed" height="180em" />
   &nbsp;&nbsp;
   <img src="https://pectics-github-stats.vercel.app/api/top-langs/?username=Pectics&layout=compact&theme=github_dark_dimmed" height="180em" />
 </div>
